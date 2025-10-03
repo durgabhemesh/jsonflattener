@@ -1,0 +1,20 @@
+{
+  'company_name': 'Acme Corp',
+  'company_location': 'Springfield',
+  'company_departments_0_name': 'Engineering',
+  'company_departments_0_head': 'Dr. Smith',
+  'company_departments_0_employees_0_id': 'E001',
+  'company_departments_0_employees_0_name': 'Alice',
+  'company_departments_0_employees_0_skills_0': 'Python',
+  'company_departments_0_employees_0_skills_1': 'Java',
+  'company_departments_0_employees_1_id': 'E002',
+  'company_departments_0_employees_1_name': 'Bob',
+  'company_departments_0_employees_1_skills_0': 'C++',
+  'company_departments_0_employees_1_skills_1': 'JavaScript',
+  'company_departments_1_name': 'Marketing',
+  'company_departments_1_head': 'Ms. Jones',
+  'company_departments_1_employees_0_id': 'M001',
+  'company_departments_1_employees_0_name': 'Charlie',
+  'company_departments_1_employees_0_skills_0': 'SEO',
+  'company_departments_1_employees_0_skills_1': 'Content Creation'
+}

@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Acme Corp",
+    "location": "Springfield",
+    "departments": [
+      {
+        "name": "Engineering",
+        "head": "Dr. Smith",
+        "employees": [
+          {
+            "id": "E001",
+            "name": "Alice",
+            "skills": ["Python", "Java"]
+          },
+          {
+            "id": "E002",
+            "name": "Bob",
+            "skills": ["C++", "JavaScript"]
+          }
+        ]
+      },
+      {
+        "name": "Marketing",
+        "head": "Ms. Jones",
+        "employees": [
+          {
+            "id": "M001",
+            "name": "Charlie",
+            "skills": ["SEO", "Content Creation"]
+          }
+        ]
+      }
+    ]
+  }
+}
